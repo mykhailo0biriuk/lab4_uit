@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="main_test.TestCalculatorFunctions-20241026004743" tests="4" file="main_test.py" time="0.001" timestamp="2024-10-26T00:47:43" failures="0" errors="0" skipped="0">
+	<testcase classname="main_test.TestCalculatorFunctions" name="test_add_numbers" time="0.001" timestamp="2024-10-26T00:47:43" file="main_test.py" line="12"/>
+	<testcase classname="main_test.TestCalculatorFunctions" name="test_divide_numbers" time="0.000" timestamp="2024-10-26T00:47:43" file="main_test.py" line="27"/>
+	<testcase classname="main_test.TestCalculatorFunctions" name="test_multiply_numbers" time="0.000" timestamp="2024-10-26T00:47:43" file="main_test.py" line="22"/>
+	<testcase classname="main_test.TestCalculatorFunctions" name="test_subtract_numbers" time="0.000" timestamp="2024-10-26T00:47:43" file="main_test.py" line="17"/>
+</testsuite>
